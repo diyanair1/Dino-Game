@@ -1,6 +1,6 @@
 ## Dino Game
 
-Inspired by the classic Chrome Dinosaur game. This is a customized version of the classic Chrome Dino game. Gameplay is enhanced with:
+Inspired by the classic Chrome Dinosaur game. This is a customized version of the Chrome Dino game. Gameplay is enhanced with:
 
 - **Smooth animation** (ducking, running, flying obstacles)
 - **Sound effects** for jumping, ducking, scoring, and game over
